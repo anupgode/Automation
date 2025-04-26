@@ -4,6 +4,8 @@ Password: admin123
 
 The above credentials are valid credentials.
 
-
-git checkout HEAD -- <file-path>
-git checkout HEAD -- <file-path>
+.
+.
+.
+.
+This file also contains admin feature.
