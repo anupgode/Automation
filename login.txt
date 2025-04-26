@@ -1,0 +1,5 @@
+This file contains credentials for logi feature.
+Username: Admin
+Password: admin123
+
+The above credentials are valid credentials.
